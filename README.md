@@ -1,4 +1,6 @@
-### Hi there 👋
+### This is definitely not a random readme about me
+I'm definitely a student at Unige enrolled into the MS in Computer Science
+Graduated from the BS in Physics at Unige in 2021
 
 <!--
 **albertomassa98/albertomassa98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
